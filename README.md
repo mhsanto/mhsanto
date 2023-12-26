@@ -1,4 +1,4 @@
-<h2 align="left">Hello, Fellow Developers, I'm Mahmodul Hasan,A FullStack NextJS Developer</h2>
+<h2 align="left">Hey,I'm Mahmodul Hasan,A FullStack NextJS Developer</h2>
 
 ###
 
