@@ -1,4 +1,4 @@
-<h2 align="left">Hey,I'm Mahmodul Hasan,A FullStack NextJS Developer</h2>
+<h2 align="left">🌟 Software Engineer by day, problem solver by night. Exploring the tech universe one code snippet at a time. 🚀</h2>
 
 ###
 
@@ -53,6 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
